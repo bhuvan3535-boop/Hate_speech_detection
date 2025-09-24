@@ -1,1 +1,2 @@
 # Hate_speech_detection
+This project focuses on building an automated system to detect and classify hate speech and offensive language. By leveraging advanced Natural Language Processing (NLP) techniques, the goal was to create a robust and highly accurate content moderation tool that can operate in real-time. This project demonstrates proficiency in developing end-to-end machine learning pipelines from data preprocessing to model deployment.
